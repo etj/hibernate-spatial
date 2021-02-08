@@ -1,5 +1,5 @@
 /*
- * $Id: SpatialAnalysis.java 200 2010-03-31 19:52:12Z maesenka $
+ * $Id:$
  *
  * This file is part of Hibernate Spatial, an extension to the
  * hibernate ORM solution for geographic data.

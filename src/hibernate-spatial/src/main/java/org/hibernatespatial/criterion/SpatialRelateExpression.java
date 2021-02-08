@@ -1,5 +1,5 @@
 /**
- * $Id: SpatialRelateExpression.java 287 2011-02-15 21:30:01Z maesenka $
+ * $Id$
  *
  * This file is part of Hibernate Spatial, an extension to the 
  * hibernate ORM solution for geographic data. 
@@ -28,7 +28,7 @@
  */
 package org.hibernatespatial.criterion;
 
-import com.vividsolutions.jts.geom.Geometry;
+import org.locationtech.jts.geom.Geometry;
 import org.hibernate.Criteria;
 import org.hibernate.HibernateException;
 import org.hibernate.criterion.CriteriaQuery;

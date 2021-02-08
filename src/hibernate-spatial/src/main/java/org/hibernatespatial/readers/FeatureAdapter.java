@@ -1,5 +1,5 @@
 /*
- * $Id: FeatureAdapter.java 165 2010-03-11 20:27:08Z maesenka $
+ * $Id:$
  *
  * This file is part of Hibernate Spatial, an extension to the
  * hibernate ORM solution for geographic data.

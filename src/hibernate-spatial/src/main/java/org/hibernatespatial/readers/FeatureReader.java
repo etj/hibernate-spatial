@@ -1,5 +1,5 @@
 /**
- * $Id: FeatureReader.java 121 2008-12-05 22:03:13Z maesenka $
+ * $Id$
  *
  * This file is part of Hibernate Spatial, an extension to the 
  * hibernate ORM solution for geographic data. 

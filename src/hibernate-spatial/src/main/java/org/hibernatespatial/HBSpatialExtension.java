@@ -1,5 +1,5 @@
 /**
- * $Id: HBSpatialExtension.java 253 2010-10-02 15:14:52Z maesenka $
+ * $Id$
  *
  * This file is part of Hibernate Spatial, an extension to the 
  * hibernate ORM solution for geographic data. 

@@ -1,5 +1,5 @@
 /**
- * $Id: FinderStrategy.java 248 2010-10-02 12:30:33Z maesenka $
+ * $Id$
  *
  * This file is part of Hibernate Spatial, an extension to the 
  * hibernate ORM solution for geographic data. 

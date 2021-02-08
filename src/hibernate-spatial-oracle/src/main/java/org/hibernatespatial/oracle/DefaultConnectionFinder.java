@@ -1,5 +1,5 @@
 /**
- * $Id: DefaultConnectionFinder.java 286 2011-02-04 21:16:23Z maesenka $
+ * $Id$
  *
  * This file is part of Hibernate Spatial, an extension to the 
  * hibernate ORM solution for geographic data. 

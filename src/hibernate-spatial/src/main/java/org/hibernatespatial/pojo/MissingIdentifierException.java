@@ -1,5 +1,5 @@
 /**
- * $Id: MissingIdentifierException.java 235 2010-07-29 19:36:00Z maesenka $
+ * $Id$
  *
  * This file is part of Hibernate Spatial, an extension to the 
  * hibernate ORM solution for geographic data. 

@@ -1,5 +1,5 @@
 /**
- * $Id: SpatialRelation.java 287 2011-02-15 21:30:01Z maesenka $
+ * $Id$
  *
  * This file is part of Hibernate Spatial, an extension to the 
  * hibernate ORM solution for geographic data. 

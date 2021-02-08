@@ -1,5 +1,5 @@
 /**
- * $Id: HSProperty.java 71 2008-01-25 19:18:02Z maesenka $
+ * $Id$
  *
  * This file is part of Hibernate Spatial, an extension to the 
  * hibernate ORM solution for geographic data. 

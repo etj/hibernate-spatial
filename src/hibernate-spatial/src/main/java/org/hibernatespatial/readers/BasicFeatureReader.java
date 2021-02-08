@@ -1,5 +1,5 @@
 /*
- * $Id: BasicFeatureReader.java 225 2010-06-25 21:59:05Z maesenka $
+ * $Id$
  *
  * This file is part of Hibernate Spatial, an extension to the
  * hibernate ORM solution for geographic data.
@@ -24,7 +24,7 @@
  */
 package org.hibernatespatial.readers;
 
-import com.vividsolutions.jts.geom.Geometry;
+import org.locationtech.jts.geom.Geometry;
 import org.hibernate.*;
 import org.hibernate.criterion.Restrictions;
 import org.hibernate.metadata.ClassMetadata;

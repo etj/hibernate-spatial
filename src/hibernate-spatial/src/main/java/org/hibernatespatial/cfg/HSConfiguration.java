@@ -1,5 +1,5 @@
 /**
- * $Id: HSConfiguration.java 134 2009-06-22 20:41:53Z maesenka $
+ * $Id$
  *
  * This file is part of Hibernate Spatial, an extension to the 
  * hibernate ORM solution for geographic data. 

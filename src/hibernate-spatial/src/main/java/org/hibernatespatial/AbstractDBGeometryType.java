@@ -1,5 +1,5 @@
 /**
- * $Id: AbstractDBGeometryType.java 138 2009-09-22 19:36:35Z maesenka $
+ * $Id$
  *
  * This file is part of Hibernate Spatial, an extension to the 
  * hibernate ORM solution for geographic data. 
@@ -41,7 +41,7 @@ import org.hibernate.usertype.UserType;
 import org.hibernatespatial.cfg.GeometryFactoryHelper;
 import org.hibernatespatial.mgeom.MGeometryFactory;
 
-import com.vividsolutions.jts.geom.Geometry;
+import org.locationtech.jts.geom.Geometry;
 
 /**
  * This type is a abstract base type for implementing database specific user

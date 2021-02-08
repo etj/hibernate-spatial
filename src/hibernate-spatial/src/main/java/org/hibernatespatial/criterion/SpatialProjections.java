@@ -1,5 +1,5 @@
 /**
- * $Id: SpatialProjections.java 64 2007-12-16 16:02:31Z maesenka $
+ * $Id$
  *
  * This file is part of Hibernate Spatial, an extension to the 
  * hibernate ORM solution for geographic data. 

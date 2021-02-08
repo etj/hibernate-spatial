@@ -1,5 +1,5 @@
 /*
- * $Id: GeometryFactoryHelper.java 200 2010-03-31 19:52:12Z maesenka $
+ * $Id:$
  *
  * This file is part of Hibernate Spatial, an extension to the
  * hibernate ORM solution for geographic data.
@@ -24,7 +24,7 @@
  */
 package org.hibernatespatial.cfg;
 
-import com.vividsolutions.jts.geom.PrecisionModel;
+import org.locationtech.jts.geom.PrecisionModel;
 import org.hibernatespatial.mgeom.MGeometryFactory;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;

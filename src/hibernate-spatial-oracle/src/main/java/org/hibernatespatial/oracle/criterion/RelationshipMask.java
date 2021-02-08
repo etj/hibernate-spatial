@@ -1,5 +1,5 @@
 /**
- * $Id: RelationshipMask.java 103 2008-08-15 10:45:29Z maesenka $
+ * $Id$
  *
  * This file is part of Hibernate Spatial, an extension to the 
  * hibernate ORM solution for geographic data. 

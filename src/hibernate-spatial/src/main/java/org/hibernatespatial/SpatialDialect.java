@@ -1,5 +1,5 @@
 /*
- * $Id: SpatialDialect.java 301 2011-05-07 18:00:18Z maesenka $
+ * $Id$
  *
  * This file is part of Hibernate Spatial, an extension to the
  * hibernate ORM solution for geographic data.

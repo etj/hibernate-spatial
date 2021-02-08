@@ -1,5 +1,5 @@
 /**
- * $Id: Feature.java 121 2008-12-05 22:03:13Z maesenka $
+ * $Id$
  *
  * This file is part of Hibernate Spatial, an extension to the 
  * hibernate ORM solution for geographic data. 
@@ -24,7 +24,7 @@
  */
 package org.hibernatespatial.readers;
 
-import com.vividsolutions.jts.geom.Geometry;
+import org.locationtech.jts.geom.Geometry;
 
 /**
  * A minimal interface for features, understood as being objects having minimally

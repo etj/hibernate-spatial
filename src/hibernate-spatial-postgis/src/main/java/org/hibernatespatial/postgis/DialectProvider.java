@@ -1,5 +1,5 @@
 /**
- * $Id: DialectProvider.java 283 2010-12-18 16:43:14Z maesenka $
+ * $Id$
  *
  * This file is part of Hibernate Spatial, an extension to the 
  * hibernate ORM solution for geographic data. 

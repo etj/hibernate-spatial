@@ -1,5 +1,5 @@
 /**
- * $Id: PropertyFileReader.java 130 2009-04-01 22:13:06Z maesenka $
+ * $Id$
  *
  * This file is part of Hibernate Spatial, an extension to the 
  * hibernate ORM solution for geographic data. 

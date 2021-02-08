@@ -1,5 +1,5 @@
 /**
- * $Id: PostgisDialect.java 289 2011-02-15 21:34:56Z maesenka $
+ * $Id$
  *
  * This file is part of Hibernate Spatial, an extension to the 
  * hibernate ORM solution for geographic data. 

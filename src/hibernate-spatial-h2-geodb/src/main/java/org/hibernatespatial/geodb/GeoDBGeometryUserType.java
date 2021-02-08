@@ -1,5 +1,5 @@
 /*
- * $Id: GeoDBGeometryUserType.java 326 2011-10-26 12:58:12Z reinoldp $
+ * $Id$
  *
  * This file is part of Hibernate Spatial, an extension to the
  * hibernate ORM solution for geographic data.
@@ -24,11 +24,11 @@
  */
 package org.hibernatespatial.geodb;
 
-import com.vividsolutions.jts.geom.Envelope;
-import com.vividsolutions.jts.geom.Geometry;
-import com.vividsolutions.jts.geom.GeometryFactory;
-import com.vividsolutions.jts.io.ParseException;
-import com.vividsolutions.jts.io.WKBConstants;
+import org.locationtech.jts.geom.Envelope;
+import org.locationtech.jts.geom.Geometry;
+import org.locationtech.jts.geom.GeometryFactory;
+import org.locationtech.jts.io.ParseException;
+import org.locationtech.jts.io.WKBConstants;
 
 import geodb.GeoDB;
 import org.hibernate.HibernateException;

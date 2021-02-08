@@ -1,5 +1,5 @@
 /**
- * $Id: HibernateSpatialException.java 54 2007-11-12 21:16:42Z maesenka $
+ * $Id$
  *
  * This file is part of Hibernate Spatial, an extension to the 
  * hibernate ORM solution for geographic data. 

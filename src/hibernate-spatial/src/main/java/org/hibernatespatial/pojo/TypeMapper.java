@@ -1,5 +1,5 @@
 /**
- * $Id: TypeMapper.java 225 2010-06-25 21:59:05Z maesenka $
+ * $Id$
  *
  * This file is part of Hibernate Spatial, an extension to the 
  * hibernate ORM solution for geographic data. 
@@ -81,7 +81,7 @@ public class TypeMapper {
 		try {
 			ctString = pool.get("java.lang.String");
 			ctDate = pool.get("java.util.Date");
-			ctGeom = pool.get("com.vividsolutions.jts.geom.Geometry");
+			ctGeom = pool.get("org.locationtech.jts.geom.Geometry");
             ctInteger = pool.get("java.lang.Integer");
             ctBoolean = pool.get("java.lang.Boolean");
             ctDouble = pool.get("java.lang.Double");

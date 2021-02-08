@@ -1,5 +1,5 @@
 /*
- * $Id: OracleSpatial10gDialect.java 333 2011-11-01 14:16:11Z maesenka $
+ * $Id$
  *
  * This file is part of Hibernate Spatial, an extension to the
  * hibernate ORM solution for geographic data.

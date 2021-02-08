@@ -1,5 +1,5 @@
 /**
- * $Id: AutoMapper.java 236 2010-07-29 21:49:00Z maesenka $
+ * $Id$
  *
  * This file is part of Hibernate Spatial, an extension to the 
  * hibernate ORM solution for geographic data. 

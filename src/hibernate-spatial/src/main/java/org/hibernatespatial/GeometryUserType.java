@@ -1,5 +1,5 @@
 /**
- * $Id: GeometryUserType.java 310 2011-05-18 18:05:39Z maesenka $
+ * $Id$
  *
  * This file is part of Hibernate Spatial, an extension to the 
  * hibernate ORM solution for geographic data. 
